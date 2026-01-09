@@ -30,5 +30,11 @@ Data loading is handled by the `load_data.py` script, which processes a CSV file
 - Deploy the app online with MongoDB Atlas.
 
 ---
+## 👨‍💻 Author
 
+Yogesh Patil
+
+Third Year Engineering (AI & DS)
+
+---
 ⭐ **Feel free to fork, contribute, or suggest improvements!**
